@@ -1,0 +1,26 @@
+{
+  "name": "homebridge-luftdaten",
+  "version": "0.0.1",
+  "description": "luftdaten.info sensor plugin for homebridge",
+  "license": "ISC",
+  "keywords": [
+    "homebridge-plugin",
+    "luftdaten.net"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tmeidinger/homebridge-luftdaten.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tmeidinger/homebridge-luftdaten/issues"
+  },
+  "directories" : {
+    "doc" : ".",
+    "test" : ".",
+    "example" : "."
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.3.0"
+  }
+}
